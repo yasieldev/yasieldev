@@ -1,5 +1,4 @@
-<h1>Hi, I'm ![Yasiel](https://via.placeholder.com/200x50.png?text=Yasiel)
-</h1>
+<h1>Hi, I'm **Yasiel**</h1>
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
