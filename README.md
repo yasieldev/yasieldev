@@ -1,6 +1,6 @@
 <h1>Hi, I'm <b>Yasiel<b></h1>
 
-<p align="center"><img width="200" height="200" src="https://c0.piktochart.com/v2/themes/base/icons/220322-n-polaroid-04_original.png?w=300"></p>
+<p align="center"><img width="200" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcoding-banner&psig=AOvVaw0ngZ6W7uQ4s5cZ7UiQH1Pj&ust=1730045700483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiQ4NK4rIkDFQAAAAAdAAAAABAE"></p>
 
 
 <!--
