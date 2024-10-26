@@ -1,4 +1,4 @@
-<h1>Hi, I'm <img src="https://via.placeholder.com/150x50/FF0000?text=Yasiel" alt="Yasiel"></h1>
+<h1>Hi, I'm <b>Yasiel<b>/h1>
 
 
 
