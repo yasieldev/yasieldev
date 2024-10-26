@@ -1,4 +1,4 @@
-<h1>Hi, I'm <span bgcolor="red">Yasiel<span></h1>
+<h1>Hi, I'm <span style="color:red;">Yasiel<span></h1>
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
