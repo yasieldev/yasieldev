@@ -1,6 +1,6 @@
 <h1>Hi, I'm <b>Yasiel<b></h1>
 
-<p align="center"><img width="340" height="200" src="https://static.vecteezy.com/system/resources/thumbnails/017/385/812/small/coding-system-minimal-infographic-banner-vector.jpg"></p>
+<p align="center"><img width="340" height="200" src="https://www.vecteezy.com/vector-art/2378679-red-and-gold-liquid-long-banner-background"></p>
 
 
 <!--
