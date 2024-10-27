@@ -1,5 +1,5 @@
 <h1>Hi, I'm <b>Yasiel<b></h1>
-<p align="center"><img width="340" height="200" src="https://www.canva.com/design/DAGUvZwAHk8/U-8hpcc6sNu_4C8DXqsi7A/view?utm_content=DAGUvZwAHk8&utm_campaign=designshare&utm_medium=link&utm_source=editor"></p>
+<p align="center"><img width="340" height="200" src="https://drive.google.com/file/d/1JxIhq8BoCxtbRddpaihu9Odz6dl9h1-J/view?usp=sharing"></p>
 
 
 <!--
