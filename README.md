@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <b>Yasiel<b></h1>
 <p align="center">
-    <img width="600px" src="Backend Developer.png">
+    <img width="600" src="Backend Developer.png">
 </p>
 
 <!--
