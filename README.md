@@ -1,6 +1,7 @@
 <h1>Hi, I'm <b>Yasiel<b></h1>
-<p align="center"><img width="340" height="200" src="https://drive.google.com/file/d/1JxIhq8BoCxtbRddpaihu9Odz6dl9h1-J/view?usp=sharing"></p>
-
+<p align="center">
+    <img width="340" height="200" src="https://drive.google.com/uc?export=view&id=1JxIhq8BoCxtbRddpaihu9Odz6dl9h1-J">
+</p>
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
