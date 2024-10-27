@@ -1,6 +1,6 @@
 <h1>Hi, I'm <b>Yasiel<b></h1>
 
-<p align="center"><img width="340" height="200" src="https://www.vecteezy.com/vector-art/2378679-red-and-gold-liquid-long-banner-background"></p>
+<p align="center"><img width="340" height="200" src="https://www.canva.com/design/DAGUvZwAHk8/Ix1lhpF72OjnX-WypI0hCg/view"></p>
 
 
 <!--
