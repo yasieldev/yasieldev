@@ -2,6 +2,8 @@
 <p align="center">
     <img width="900" src="banner git.png">
 </p>
+<br>
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen"/>
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
