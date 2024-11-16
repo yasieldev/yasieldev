@@ -3,7 +3,7 @@
     <img width="900" src="banner git.png">
 </p>
 
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen"/>   <img src="https://img.shields.io/badge/Age-17-red"/><img src="https://img.shields.io/badge/Spanish:%20-Native-blue"/><img src="https://img.shields.io/badge/English:%20-B2-green"/><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh3bmJ1M3lhb2lzN3JycTM2N3dqZzZnMmg4cHFraHg1c2s0dDNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OzI5NkvzPePDX8BnT/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen"/>     <img src="https://img.shields.io/badge/Age-17-brightgreen"/>     <img src="https://img.shields.io/badge/Spanish:%20-Native-brightgreen"/>     <img src="https://img.shields.io/badge/English:%20-B2-brightgreen"/><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHh3bmJ1M3lhb2lzN3JycTM2N3dqZzZnMmg4cHFraHg1c2s0dDNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8OzI5NkvzPePDX8BnT/giphy.gif" width="50" />
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
