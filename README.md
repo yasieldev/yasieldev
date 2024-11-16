@@ -3,7 +3,7 @@
     <img width="900" src="banner git.png">
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen"/>
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen"/>
 
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
