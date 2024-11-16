@@ -8,12 +8,6 @@
 <br>
 <br>
 
-<h3>Statistical Data:-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yasieldev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="yasieldev" 
-    bg_color=#808080/></p>
-
 <!--
 **yasieldev/yasieldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
